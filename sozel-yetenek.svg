@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Açık kitap ve konuşma balonu">
+  <rect width="400" height="260" rx="24" fill="#e8f7fe"/>
+  <circle cx="340" cy="40" r="70" fill="#d3f0fc"/>
+  <circle cx="50" cy="230" r="62" fill="#d9f5e4"/>
+  <path d="M55 175 Q130 150 200 178 L200 232 Q130 206 55 232 Z" fill="#fff" stroke="#0e7a3d" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M345 175 Q270 150 200 178 L200 232 Q270 206 345 232 Z" fill="#fff" stroke="#0e7a3d" stroke-width="4" stroke-linejoin="round"/>
+  <g stroke="#7fd3f7" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M80 192 Q130 178 175 196"/>
+    <path d="M80 208 Q130 194 175 212"/>
+    <path d="M225 196 Q270 178 320 192"/>
+    <path d="M225 212 Q270 194 320 208"/>
+  </g>
+  <rect x="110" y="30" width="180" height="92" rx="22" fill="#1a9e55"/>
+  <path d="M175 120 L165 152 L204 124 Z" fill="#1a9e55"/>
+  <text x="200" y="94" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" fill="#ffffff">Aa</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Dünya küresi ve dağlar">
+  <defs>
+    <clipPath id="globe"><circle cx="200" cy="118" r="88"/></clipPath>
+  </defs>
+  <rect width="400" height="260" rx="24" fill="#e8f7fe"/>
+  <circle cx="350" cy="40" r="60" fill="#d3f0fc"/>
+  <path d="M0 220 L70 150 L110 195 L150 160 L200 230 L0 230 Z" fill="#d9f5e4"/>
+  <path d="M400 230 L330 140 L290 190 L250 165 L200 240 L400 240 Z" fill="#d9f5e4"/>
+  <circle cx="200" cy="118" r="88" fill="#7fd3f7"/>
+  <g clip-path="url(#globe)" fill="#1a9e55">
+    <path d="M130 70 Q160 50 190 66 Q210 80 195 100 Q175 112 160 140 Q140 150 128 120 Q118 90 130 70 Z"/>
+    <path d="M225 108 Q260 92 282 110 Q292 140 268 160 Q246 190 232 166 Q222 140 225 108 Z"/>
+    <path d="M205 48 Q230 40 248 56 Q238 72 214 70 Z"/>
+  </g>
+  <g fill="none" stroke="#0e7a3d" stroke-width="2" opacity="0.7" clip-path="url(#globe)">
+    <ellipse cx="200" cy="118" rx="44" ry="88"/>
+    <line x1="200" y1="30" x2="200" y2="206"/>
+    <line x1="112" y1="118" x2="288" y2="118"/>
+    <path d="M122 76 Q200 92 278 76"/>
+    <path d="M122 160 Q200 144 278 160"/>
+  </g>
+  <circle cx="200" cy="118" r="88" fill="none" stroke="#0e7a3d" stroke-width="5"/>
+  <path d="M120 226 L160 176 L190 214 L214 188 L252 226 Z" fill="#0e7a3d"/>
+  <path d="M146 194 L160 176 L174 194 L160 190 Z" fill="#fff"/>
+  <path d="M203 197 L214 188 L225 199 L214 196 Z" fill="#fff"/>
+  <rect x="100" y="226" width="200" height="10" rx="5" fill="#1a9e55"/>
+</svg>
